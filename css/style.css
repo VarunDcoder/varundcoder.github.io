@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Bad+Script|Amaranth|Germania+One|Josefin+Sans|Metal+Mania|Rancho');
+
+body{
+  margin-top:60px;
+  margin-bottom:50px;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+h1 { 
+    display: block;
+    font-size: 3em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    font-family:'Josefin Sans', sans-serif;
+}
+h2 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-family:'Amaranth', sans-serif;
+}
+.font{
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+.myJumbotron {
+    background-color:#121b33;
+    color:black;
+    padding: 15px;
+}
+.pfont{
+  font-size: 25px;
+  font-family: 'Amaranth', sans-serif;
+}
+.pfonts{
+  font-size:20px;
+}
+.p{
+  font-family: 'Amaranth', sans-serif;
+  text-align: justify;
+  font-size:18px;
+   margin-right: 25px;
+   margin-left: 25px;
+}
